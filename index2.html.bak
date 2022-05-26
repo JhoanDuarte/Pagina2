@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Pagina 1</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="normalize.css">
+    </head>
+    <body>
+       <header>
+           <nav class="nav">
+               <ul class="nav__ul">
+                   <li class="nav__li"><a href="">Inicio</a></li>
+                   <li class="nav__li"><a href="SobreNosotros.html">Sobre nosotros</a></li>
+               </ul>
+               <ul class="nav__ul-responsive">
+                <li><a href="Inicio"></a></li>
+                <li><a href="Sobre nosotros"></a></li>
+               </ul>
+           </nav>
+           <main>
+            <div class="slide">
+                <div class="slide-inner">
+                    <input class="slide-open" type="radio" id="slide-1" 
+                          name="slide" aria-hidden="true" hidden="" checked="checked">
+                    <div class="slide-item">
+                        <img src="Img/descarga1.jfif">
+                    </div>
+                    <input class="slide-open" type="radio" id="slide-2" 
+                          name="slide" aria-hidden="true" hidden="">
+                    <div class="slide-item">
+                        <img src="Img/descarga.jfif">
+                    </div>
+                    <input class="slide-open" type="radio" id="slide-3" 
+                          name="slide" aria-hidden="true" hidden="">
+                    <div class="slide-item">
+                        <img src="Img/1.jpg">
+                    </div>
+                    <label for="slide-3" class="slide-control prev control-1">‹</label>
+                    <label for="slide-2" class="slide-control next control-1">›</label>
+                    <label for="slide-1" class="slide-control prev control-2">‹</label>
+                    <label for="slide-3" class="slide-control next control-2">›</label>
+                    <label for="slide-2" class="slide-control prev control-3">‹</label>
+                    <label for="slide-1" class="slide-control next control-3">›</label>
+                    <ol class="slide-indicador">
+                        <li>
+                            <label for="slide-1" class="slide-circulo">•</label>
+                        </li>
+                        <li>
+                            <label for="slide-2" class="slide-circulo">•</label>
+                        </li>
+                        <li>
+                            <label for="slide-3" class="slide-circulo">•</label>
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <div>
+                <h2>NO SE QUE PONER</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum, exercitationem sed voluptas ipsam amet animi debitis? Labore, tempora quo. Illo recusandae vel facere commodi cum dolore ea incidunt fuga praesentium?
+                Adipisci deserunt magni atque fugiat consequatur quam, dolores, numquam in omnis, repellendus veritatis vel! Dolores iure nesciunt cupiditate error ullam voluptatum cum, laudantium omnis numquam ad voluptatem beatae repellat harum?
+                Hic, molestias quis expedita facilis quidem perferendis doloribus soluta? Maiores minima vitae nisi voluptate soluta voluptatum! Ipsam porro deleniti magni sequi, quae voluptate commodi. Laboriosam voluptatem quia doloremque! Deleniti, doloribus!
+                Fugit eaque quam numquam facilis, a incidunt enim! Ratione, voluptates corrupti doloremque perferendis fugit sed soluta ipsam nostrum dignissimos cumque facere, provident accusamus! Veniam sed asperiores ab dignissimos, nulla dolorem.
+                Earum itaque dignissimos velit obcaecati sit officia nostrum accusantium dolorem sapiente quae architecto accusamus et temporibus, ratione illum aspernatur numquam minima perspiciatis neque natus? Beatae ducimus a quo quas exercitationem?
+                Ex excepturi ullam magnam commodi veniam esse temporibus omnis, dolorum laborum praesentium quaerat voluptatem sed voluptatibus iste corrupti odit ut laboriosam saepe autem ducimus suscipit laudantium. Ut quisquam quod voluptate.
+                Quis porro excepturi asperiores nisi aliquam a corrupti ea, quaerat impedit sunt accusamus possimus repellat obcaecati sequi! Voluptatum, nemo rem eius minus maiores officiis, numquam necessitatibus labore sequi id neque!
+                Inventore nihil eius praesentium quisquam culpa, cumque enim optio vitae totam non assumenda cum debitis aliquid iure quia ullam ex dolore error quam aut eligendi nam! Sunt itaque saepe ut.
+                Corrupti velit, rerum veritatis accusantium dolorum molestias aspernatur, ex dignissimos asperiores iste quod expedita quo doloremque in praesentium quas adipisci incidunt? Ipsum, nihil quaerat impedit magnam consequatur libero nisi sapiente.
+                Nam dolor est quasi dignissimos aspernatur perferendis qui atque eveniet sint ex. Non alias, ratione commodi similique nobis dolores perspiciatis ipsam culpa! Magni quae eligendi expedita debitis illo nam nostrum.</p>
+            </div>
+           </main>
+       </header>
+    </body>
+</html>
