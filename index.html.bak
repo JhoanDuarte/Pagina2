@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Pagina 1</title>
-        <link rel="stylesheet" type="text/css" href="style2.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" href="normalize.css">
     </head>
     <body>
@@ -150,7 +150,7 @@
                     <td>0.15</td>
                 </tr>
               </table>
-              <a href="SobreNosotros.html">PAGINA 2</a>
+              <a href="index2.html">PAGINA 2</a>
             </div>
            </main>
        </header>
